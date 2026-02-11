@@ -12,7 +12,7 @@ A Yazi plugin that combines the best of `smart-enter` and `fast-enter`. It allow
 
 ```sh
 # Example installation (adjust according to your package manager)
-ya pkg add auto-enter
+ya pkg add alterkeyy/auto-enter
 ```
 
 ## Usage
