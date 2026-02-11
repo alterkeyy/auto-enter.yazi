@@ -41,8 +41,9 @@ require("auto-enter"):setup {
 - `innermost`: If `true`, entering a directory will jump to the deepest nested subfolder if there is only one subfolder at each level.
 
 ## Credit
-[ourongxing/fast-enter.yazi: Plugin for Yazi to enter the subfolder faster, or open the file directly.](https://github.com/ourongxing/fast-enter.yazi)
-[plugins/smart-enter.yazi at main · yazi-rs/plugins](https://github.com/yazi-rs/plugins/tree/main/smart-enter.yazi)
+[ourongxing/fast-enter.yazi](https://github.com/ourongxing/fast-enter.yazi)
+
+[plugins/smart-enter.yazi](https://github.com/yazi-rs/plugins/tree/main/smart-enter.yazi)
 
 ## License
 
